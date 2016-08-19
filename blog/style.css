@@ -1,0 +1,33 @@
+footer {
+    text-align: center;
+}
+
+.article {
+    margin-top: 50px;
+}
+
+.admin-table{
+ width:100%;   
+}
+
+/*Add article*/
+.form-item {
+  width:600px;
+}
+
+label {
+  width:600px;
+  margin:20px 0px;
+}
+form {
+    width:600px;
+}
+textarea.form-item{
+  height:200px;
+}
+
+input.form-item  {
+  height: 22px;
+}
+
+
